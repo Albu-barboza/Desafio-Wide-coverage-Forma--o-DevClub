@@ -1,13 +1,16 @@
-  <h1>We Care</h1>
+
+<body>
+    <h1>Wide Coverage Location</h1>
     
+  
   <h2>Descrição do Projeto</h2>
-    <p>O projeto <strong>We Care</strong> é uma página introdutória para uma empresa dedicada ao cuidado com animais de estimação. A página inclui uma breve descrição dos serviços e valores da empresa, com uma interface moderna e amigável.</p>
+    <p>O projeto <strong>Wide Coverage Location</strong> é uma página de apresentação que descreve uma empresa com ampla cobertura de localização. A página conta com um design moderno, um cabeçalho de navegação com links, e uma seção principal com um botão de ação e uma imagem descritiva.</p>
     
   <h2>Funcionalidades</h2>
     <ul>
-        <li>Seção "About Your Pet" com descrição dos cuidados com os animais.</li>
-        <li>Navegação no cabeçalho para acessar diferentes seções: Home, About, Product, Service e Contact.</li>
-        <li>Botão de login no cabeçalho.</li>
+        <li>Links de navegação no cabeçalho para Products, Company, Blog e Log in.</li>
+        <li>Botão de "Sign up" com destaque.</li>
+        <li>Seção principal com uma breve descrição dos serviços da empresa e um botão "Learn more".</li>
     </ul>
     
   <h2>Tecnologias Utilizadas</h2>
@@ -16,17 +19,21 @@
         <li>CSS3</li>
     </ul>
     
-  <h2>Como Executar o Projeto</h2>
+   <h2>Como Executar o Projeto</h2>
     <ol>
         <li>Clone este repositório em sua máquina local.</li>
         <li>Abra o arquivo <code>index.html</code> em seu navegador.</li>
     </ol>
     
-   <h2>Estrutura do Projeto</h2>
+  <h2>Estrutura do Projeto</h2>
     <ul>
-        <li><strong>index.html</strong>: Página principal do projeto com informações sobre a empresa.</li>
-        <li><strong>styles.css</strong>: Arquivo de estilos para personalizar a aparência do site.</li>
-    </ul>
+        <li><strong>index.html</strong>: Página principal com informações da empresa.</li>
+        <li><strong>style.css</strong>: Arquivo de estilos para personalizar o visual da página.</li>
+    
+   <h2>Autor</h2>
+   <p>Projeto desenvolvido por Alef Barboza durante as aulas do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.</p>
+
+
     
    <h2>Visual do Projeto</h2>
     <p>Abaixo está uma captura de tela do projeto:</p>
