@@ -1,0 +1,139 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 35px 0 47px 42px;
+}
+
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 21px;
+
+}
+
+button {
+    background: #6FBF44;
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+img {
+    width: 595px;
+    height: 500px;
+    display: inline-block;
+    margin-left: 121px;
+}
+
+section {
+    display: inline-block;
+    margin-left: 85px;
+}
+
+
+h1 {
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    color: #161A49;
+    max-width: 500px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    color: #4B505A;
+    width: 515px;
+    margin-bottom: 65px;
+    margin-top: 32px;
+}
+
+.link-main {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    color: #6FBF44;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+
+    .link-header {
+        display: none;
+    }
+
+.container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+        /* Outras configurações */}
+
+button {
+    width: 91px;
+    height: 31px;
+    margin: 17px 0px 0 250px;
+    position: static;
+    display: block;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto 0;
+    margin-left: 13%;
+    margin-bottom: -30%;
+
+}
+
+.link-main{
+    margin-right: 15%;
+    justify-content: center;
+
+}
+
+h1{
+    width: 278px;
+    height: 60px;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+p{
+    width: 304px;
+    height: 165px;
+    font-size: 18px;
+    line-height: 33px;
+
+}
+
+img {
+    width: 312px;
+    height: 288px;
+    margin: 100px 38px 22px 38px;
+    align-items: center;
+    margin-top: 50%;
+
+}
+
+}
