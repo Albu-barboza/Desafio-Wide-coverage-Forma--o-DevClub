@@ -33,13 +33,13 @@
    <h2>Autor</h2>
    <p>Projeto desenvolvido por Alef Barboza durante as aulas do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.</p>
 
-
+<h2>Autor</h2>
+  <p>Projeto desenvolvido por Alef Barboza durante as aulas do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.</p>
     
    <h2>Visual do Projeto</h2>
     <p>Abaixo está uma captura de tela do projeto:</p>
    <img src="https://github.com/Albu-barboza/Desafio-Wide-coverage-Forma--o-DevClub/blob/main/img/inicio.png?raw=true" alt="Página We Care" width="700">
    <img src="https://github.com/Albu-barboza/Desafio-Wide-coverage-Forma--o-DevClub/blob/main/img/image.png?raw=true" alt="Página We Care" width="700">
     
-  <h2>Autor</h2>
-  <p>Projeto desenvolvido por Alef Barboza durante as aulas do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.</p>
+  
 
